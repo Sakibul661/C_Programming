@@ -2,7 +2,8 @@
 Basic C Programs Collection.
 Welcome to the Basic C Programs repository! This collection of C programs that cover fundamental concepts like conditionals, loops, patterns, number operations, and matrix manipulations.
 
-📁 Program List
+📁 Program List 
+<br>
 ✅ Armstrong.c – Check whether a number is an Armstrong number
 
 ✅ Checking_Even_or_Odd.c – Determine if a number is even or odd
